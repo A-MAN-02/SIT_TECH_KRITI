@@ -1,12 +1,7 @@
 
-# ⚡Prajwalan 22
+# ⚡SIT_TECH_KRITI
 
-Official Website of Prajwalan, the techfest organised by Government College of Engineering Amravati.
-
-## 🔥 Live Link
-
-**[www.prajwalan.tech](https://prajwalan.tech)**
-
+Official Website of SIT_TECH_KRITI, the techfest organised by SIT SITAMARHI.
 
 ## ⚡ Tech Stack
 
